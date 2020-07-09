@@ -34,6 +34,7 @@ namespace denemeYMS3138
 
     );
             });
+            app.UseStaticFiles();
         }
     }
 }
